@@ -42,4 +42,5 @@ yarn-debug.log*
 
 ## Custom ##
 
+/.vscode
 /db/data/*
